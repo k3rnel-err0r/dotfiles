@@ -1,0 +1,18 @@
+# Appearance
+background-opacity = 0.96
+cursor-style = block
+gtk-titlebar = false
+theme = GruvboxDark
+macos-titlebar-proxy-icon = hidden
+macos-titlebar-style = transparent
+mouse-hide-while-typing = true
+title = "Ghostty"
+window-padding-balance = true
+window-padding-x = 5
+
+# Fonts
+font-family = "D2Coding"
+font-size = 15
+
+# Tools
+keybind = cmd+r=reload_config 
